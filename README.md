@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aspenzo/aspenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=aspenzo&color=27c8b0&label=VIEWS!)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- top row -->
+<table>
+  <tr>
+    <td align="right" valign="middle">
+     <img src= "https://github.com/user-attachments/assets/70f19eee-54f4-489d-ac82-da5959cbe989"
+     <\td>
+
+  </tr>
+</table>
